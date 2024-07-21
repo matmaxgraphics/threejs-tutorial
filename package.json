@@ -1,0 +1,22 @@
+{
+  "name": "threejs-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "buffer": "^6.0.3",
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@parcel/transformer-js": "^2.12.0",
+    "dat.gui": "^0.7.9",
+    "three": "^0.163.0",
+    "three-orbitcontrols": "^2.110.3"
+  }
+}
